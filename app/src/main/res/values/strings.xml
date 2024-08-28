@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">F IRESTI 3 Patient Version</string>
+    <string name="msg_token_fmt">FCM Token: %1$s</string>
+    <!-- Add other string resources here if needed -->
+</resources>
